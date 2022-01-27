@@ -37,3 +37,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OseiasBeu&repo=Blockchain)](https://github.com/OseiasBeu/Blockchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OseiasBeu&repo=alien_invasion)](https://github.com/OseiasBeu/alien_invasion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OseiasBeu&repo=HealthApp)](https://github.com/OseiasBeu/HealthApp)
+  
+![Snake animation](https://github.com/OseiasBeu/OseiasBeu/blob/output/github-contribution-grid-snake.svg)
