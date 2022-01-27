@@ -22,13 +22,19 @@
   <img align="center" alt="Beu-nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
-<!-- Contatos -->
+![Snake animation](https://github.com/OseiasBeu/OseiasBeu/blob/output/github-contribution-grid-snake.svg)
 
-<!--  <div>   
-<a href="https://www.linkedin.com/in/oseiasbeu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-                                         
+##
+  
+  <div align="center"> 
+  <a href="https://www.youtube.com/channel/UCc5L11HhFcn9ecpxJRXsceQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eusouoseiasbeu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:beuoseias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oseiasbeu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+##
 
- <br> -->
 
   
 ## Alguns dos meus últimos Projetos:
@@ -38,4 +44,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OseiasBeu&repo=alien_invasion)](https://github.com/OseiasBeu/alien_invasion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OseiasBeu&repo=HealthApp)](https://github.com/OseiasBeu/HealthApp)
   
-![Snake animation](https://github.com/OseiasBeu/OseiasBeu/blob/output/github-contribution-grid-snake.svg)
+
